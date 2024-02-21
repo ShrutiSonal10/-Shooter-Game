@@ -3,8 +3,7 @@ This is a simple shooter game developed using Pygame.
 
 Overview
 The Shooter Game is a side-scrolling action game where the player controls a character to navigate through levels, defeat enemies, and collect items. The game features smooth movement mechanics, shooting functionality, grenades, health packs, and more.
-![Alt text](Shooter-Game
-/Shooter 2024-02-21 17-10-05 (4).gif)
+![Alt text](-Shooter-Game/Shooter 2024-02-21 17-10-05 (4).gif)
 
 
 How to Play
